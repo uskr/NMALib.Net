@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMALib", "NMALib\NMALib.csproj", "{51649DBB-4772-491F-966F-6ED4E41E584E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMA.TestConsole", "NMA.TestConsole\NMA.TestConsole.csproj", "{9036EC9A-CD57-41CA-ACC9-BA3E6BC3F585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51649DBB-4772-491F-966F-6ED4E41E584E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51649DBB-4772-491F-966F-6ED4E41E584E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51649DBB-4772-491F-966F-6ED4E41E584E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51649DBB-4772-491F-966F-6ED4E41E584E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9036EC9A-CD57-41CA-ACC9-BA3E6BC3F585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9036EC9A-CD57-41CA-ACC9-BA3E6BC3F585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9036EC9A-CD57-41CA-ACC9-BA3E6BC3F585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9036EC9A-CD57-41CA-ACC9-BA3E6BC3F585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
