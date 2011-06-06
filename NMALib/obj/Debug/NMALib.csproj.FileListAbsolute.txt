@@ -1,0 +1,5 @@
+G:\workspace\NMALib.Net\NMA\NMALib\bin\Debug\NMALib.dll
+G:\workspace\NMALib.Net\NMA\NMALib\bin\Debug\NMALib.pdb
+G:\workspace\NMALib.Net\NMA\NMALib\obj\Debug\ResolveAssemblyReference.cache
+G:\workspace\NMALib.Net\NMA\NMALib\obj\Debug\NMALib.dll
+G:\workspace\NMALib.Net\NMA\NMALib\obj\Debug\NMALib.pdb

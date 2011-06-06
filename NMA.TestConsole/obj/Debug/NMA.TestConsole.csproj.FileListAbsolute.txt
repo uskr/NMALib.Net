@@ -1,0 +1,8 @@
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\bin\Debug\NMALib.TestConsole.exe.config
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\bin\Debug\NMALib.TestConsole.exe
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\bin\Debug\NMALib.TestConsole.pdb
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\bin\Debug\NMALib.dll
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\bin\Debug\NMALib.pdb
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\obj\Debug\ResolveAssemblyReference.cache
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\obj\Debug\NMALib.TestConsole.exe
+G:\workspace\NMALib.Net\NMA\NMA.TestConsole\obj\Debug\NMALib.TestConsole.pdb

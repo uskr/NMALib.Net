@@ -73,9 +73,9 @@ namespace NMALib
         {
             if (!(_clientCfg.BaseUrl.EndsWith("/"))) _clientCfg.BaseUrl += "/";
 
-            var prowlUrlSb = new StringBuilder(_clientCfg.BaseUrl);
+            var nmaUrlSb = new StringBuilder(_clientCfg.BaseUrl);
 
-            prowlUrlSb.AppendFormat(
+            nmaUrlSb.AppendFormat(
                 POST_NOTIFICATION_BASE_METHOD,
                 HttpUtility.UrlEncode(_clientCfg.ApiKeychain),
                 HttpUtility.UrlEncode(_clientCfg.ApplicationName),
@@ -84,11 +84,11 @@ namespace NMALib
                 ((sbyte)(notification_.Priority)));
 
             if (!String.IsNullOrEmpty(_clientCfg.ProviderKey))
-                prowlUrlSb.AppendFormat(
+                nmaUrlSb.AppendFormat(
                     POST_NOTIFICATION_PROVIDER_PARAMETER,
                     HttpUtility.UrlEncode(_clientCfg.ProviderKey));
 
-            return prowlUrlSb.ToString();
+            return nmaUrlSb.ToString();
         }
     }
 }
